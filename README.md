@@ -24,8 +24,8 @@ This project demonstrates the ability to **clean, model, and visualize data** to
 - **Power Query** (for data cleaning)  
 - **DAX Measures** (for calculations)  
 - **CSV Dataset**
-      - Name : Sample - Superstore.CSV
-      - Resource : Kaggle website   
+      Name : Sample - Superstore.CSV
+      Resource : Kaggle website   
 
 ---
 
@@ -57,3 +57,36 @@ Total Profit = SUM(Sample - Superstore[Profit])
 Order Count = DISTINCTCOUNT(Sample - Superstore[OrderID])
 Average Sales = AVERAGE(Sample - Superstore[Sales])
 Revenue = SUM(Sample - Superstore[Sales]*Sample - Superstore[Discount])
+
+---
+
+## 💡 Key Findings and Business Insights
+1. 📈 Overall Performance and Growth
+- Volume Growth: Order Count and Customer Count saw significant growth, peaking in 2016 and 2017, indicating successful market expansion and customer acquisition.
+- Declining Value: Despite high volume, Average Sales per order has declined or stagnated since 2014 ($250.09 in 2014 vs. $230.31 in 2017), suggesting a shift towards smaller transaction sizes.
+- Recommendation: Focus marketing efforts on upselling and cross-selling higher-value items to increase the Average Sales value.
+
+2. 💰 Profitability and Categories
+- Profit Drivers: Copiers consistently generated the highest total profit, reinforcing the importance of the Technology category.
+- Margin Discrepancies: Certain sub-categories (e.g., Appliances, Binders) show low profit margins or even losses within the Consumer segment.
+- Recommendation: Conduct a cost-benefit analysis for low-margin products in the Consumer segment, and consider optimizing pricing or reducing operational costs.
+
+3. 🌍 Regional and Segment Performance
+- Top Region: The West Region consistently leads with the highest volume of orders (approximately 30-34% of total).
+- Highest Margins: The Corporate and Home Office segments consistently display healthier Profit Margins compared to the Consumer segment.
+- Recommendation: Implement targeted campaigns to increase order penetration in the South Region, which consistently shows the lowest order count.
+
+4. 📉 Seasonality Trend
+- Peak Season: Sales consistently peak in the last quarter (September through December), driven by high demand.
+- Off-Season Dip: A sharp and predictable downward trend in sales occurs starting in December/January and continues into the middle of the year (Q1/Q2).
+- Recommendation: Utilize this clear seasonality pattern for accurate inventory management and workforce planning, ensuring high stock during Q4 and minimizing holding costs during the early months of the year.
+
+---
+
+## 👤 7. Author and Contact
+
+* **Name:** D.S.Senevirathna
+* **GitHub Profile:** [https://github.com/YourGitHubUsername]
+* **LinkedIn:** [https://www.linkedin.com/in/YourLinkedInProfile/]
+* **Email:** dehemisathsarani184@.com
+
