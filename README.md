@@ -60,33 +60,47 @@ Revenue = SUM(Sample - Superstore[Sales]*Sample - Superstore[Discount])
 
 ---
 
+---
+
 ## 💡 Key Findings and Business Insights
-1. 📈 Overall Performance and Growth
-- Volume Growth: Order Count and Customer Count saw significant growth, peaking in 2016 and 2017, indicating successful market expansion and customer acquisition.
-- Declining Value: Despite high volume, Average Sales per order has declined or stagnated since 2014 ($250.09 in 2014 vs. $230.31 in 2017), suggesting a shift towards smaller transaction sizes.
-- Recommendation: Focus marketing efforts on upselling and cross-selling higher-value items to increase the Average Sales value.
 
-2. 💰 Profitability and Categories
-- Profit Drivers: Copiers consistently generated the highest total profit, reinforcing the importance of the Technology category.
-- Margin Discrepancies: Certain sub-categories (e.g., Appliances, Binders) show low profit margins or even losses within the Consumer segment.
-- Recommendation: Conduct a cost-benefit analysis for low-margin products in the Consumer segment, and consider optimizing pricing or reducing operational costs.
-
-3. 🌍 Regional and Segment Performance
-- Top Region: The West Region consistently leads with the highest volume of orders (approximately 30-34% of total).
-- Highest Margins: The Corporate and Home Office segments consistently display healthier Profit Margins compared to the Consumer segment.
-- Recommendation: Implement targeted campaigns to increase order penetration in the South Region, which consistently shows the lowest order count.
-
-4. 📉 Seasonality Trend
-- Peak Season: Sales consistently peak in the last quarter (September through December), driven by high demand.
-- Off-Season Dip: A sharp and predictable downward trend in sales occurs starting in December/January and continues into the middle of the year (Q1/Q2).
-- Recommendation: Utilize this clear seasonality pattern for accurate inventory management and workforce planning, ensuring high stock during Q4 and minimizing holding costs during the early months of the year.
+### 1. 📈 Overall Performance and Growth
+- **Volume Growth:** Order Count and Customer Count show strong growth, peaking in **2016 and 2017**, indicating successful market expansion and customer acquisition.
+- **Declining Value:** Despite increasing order volume, **Average Sales per Order** has declined or stagnated since 2014  
+  *(e.g., $250.09 in 2014 → $230.31 in 2017)*, implying smaller average transaction sizes.
+- **Recommendation:** Introduce upselling and cross-selling strategies to increase average order value.
 
 ---
 
-## 👤 7. Author and Contact
+### 2. 💰 Profitability and Categories
+- **Profit Drivers:** *Copiers* consistently generate the **highest total profit**, highlighting the strength of the **Technology category**.
+- **Margin Gaps:** Several sub-categories (e.g., *Appliances, Binders*) show **low or negative margins**, especially within the **Consumer segment**.
+- **Recommendation:** Perform cost–benefit and pricing analysis for low-margin products and consider pricing optimization.
 
-* **Name:** D.S.Senevirathna
-* **GitHub Profile:** [https://github.com/YourGitHubUsername]
-* **LinkedIn:** [https://www.linkedin.com/in/YourLinkedInProfile/]
-* **Email:** dehemisathsarani184@.com
+---
 
+### 3. 🌍 Regional and Segment Performance
+- **Top Region:** The **West Region** contributes the highest order volume (approx. 30–34% of all orders).
+- **Strong Segments:** **Corporate** and **Home Office** segments show consistently stronger **profit margins** compared to Consumer.
+- **Recommendation:** Increase marketing and promotional focus on the **South Region**, which shows the lowest order penetration.
+
+---
+
+### 4. 📉 Seasonality Trend
+- **Peak Season:** Sales peak consistently in **Q4 (September–December)**.
+- **Off-Season Drop:** A predictable decline occurs from **January to mid-year (Q1/Q2)**.
+- **Recommendation:** Use seasonality trends for:
+  - Optimized inventory planning,
+  - Workforce allocation,
+  - Cost reduction during slow months.
+
+---
+
+## 👤 Author and Contact
+
+**Name:** D. S. Senevirathna  
+**GitHub Profile:** https://github.com/dehemisathsarani184-oss  
+**LinkedIn:** https://www.linkedin.com/in/YourLinkedInProfile/  
+**Email:** **dehemisathsarani184@.com**
+
+---
