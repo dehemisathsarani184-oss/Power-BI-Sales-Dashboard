@@ -24,7 +24,7 @@ This project demonstrates the ability to **clean, model, and visualize data** to
 - **Power Query** (for data cleaning)  
 - **DAX Measures** (for calculations)  
 - **CSV Dataset**
-      Name : Sample - Superstore.CSV
+      Name : Sample - Superstore.CSV | 
       Resource : Kaggle website   
 
 ---
@@ -47,18 +47,6 @@ This project demonstrates the ability to **clean, model, and visualize data** to
 - **Total Sales by Product Name:** Bar Chart  
 - **Profit Margin by Segment :** Column Chart
 - **Total Sales by Category :** Column Chart
-
----
-
-## 🧮 Key DAX Measures
-```DAX
-Total Sales = SUM(Sample - Superstore[Sales])
-Total Profit = SUM(Sample - Superstore[Profit])
-Order Count = DISTINCTCOUNT(Sample - Superstore[OrderID])
-Average Sales = AVERAGE(Sample - Superstore[Sales])
-Revenue = SUM(Sample - Superstore[Sales]*Sample - Superstore[Discount])
-
----
 
 ---
 
@@ -101,6 +89,6 @@ Revenue = SUM(Sample - Superstore[Sales]*Sample - Superstore[Discount])
 **Name:** D. S. Senevirathna  
 **GitHub Profile:** https://github.com/dehemisathsarani184-oss  
 **LinkedIn:** https://www.linkedin.com/in/YourLinkedInProfile/  
-**Email:** **dehemisathsarani184@.com**
+**Email:** **dehemisathsarani184@gmail.com**
 
 ---
