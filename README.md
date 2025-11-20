@@ -50,43 +50,39 @@ This project demonstrates the ability to **clean, model, and visualize data** to
 
 ---
 
-## 💡 Key Findings and Business Insights
+## 📊 Key Findings
+-  West Region recorded the highest sales.
+-  Copiers within the Technology category generated the highest profit contribution.
+-  The Consumer segment showed lower margin performance.
+-  Sales tend to peak during the last quarter of the year.
+
+---
+
+## 💡 Business Insights
 
 ### 1. 📈 Overall Performance and Growth
-- **Volume Growth:** Order Count and Customer Count show strong growth, peaking in **2016 and 2017**, indicating successful market expansion and customer acquisition.
-- **Declining Value:** Despite increasing order volume, **Average Sales per Order** has declined or stagnated since 2014  
-  *(e.g., $250.09 in 2014 → $230.31 in 2017)*, implying smaller average transaction sizes.
-- **Recommendation:** Introduce upselling and cross-selling strategies to increase average order value.
-
----
+- Introduce upselling and cross selling strategies to increase average order value.
 
 ### 2. 💰 Profitability and Categories
-- **Profit Drivers:** *Copiers* consistently generate the **highest total profit**, highlighting the strength of the **Technology category**.
-- **Margin Gaps:** Several sub-categories (e.g., *Appliances, Binders*) show **low or negative margins**, especially within the **Consumer segment**.
-- **Recommendation:** Perform cost–benefit and pricing analysis for low-margin products and consider pricing optimization.
-
----
+-  Perform cost–benefit and pricing analysis for low-margin products and consider pricing optimization.
 
 ### 3. 🌍 Regional and Segment Performance
-- **Top Region:** The **West Region** contributes the highest order volume (approx. 30–34% of all orders).
-- **Strong Segments:** **Corporate** and **Home Office** segments show consistently stronger **profit margins** compared to Consumer.
-- **Recommendation:** Increase marketing and promotional focus on the **South Region**, which shows the lowest order penetration.
+- Increase marketing and promotional focus on the **South Region**, which shows the lowest order penetration.
 
----
-
-### 4. 📉 Seasonality Trend
-- **Peak Season:** Sales peak consistently in **Q4 (September–December)**.
-- **Off-Season Drop:** A predictable decline occurs from **January to mid-year (Q1/Q2)**.
-- **Recommendation:** Use seasonality trends for:
-  - Optimized inventory planning,
-  - Workforce allocation,
-  - Cost reduction during slow months.
+### 4. 📉 Seasonality Trend 
+-  Use seasonality trends for:
+      - Optimized inventory planning,
+      - Workforce allocation,
+      - Cost reduction during slow months.
 
 ---
 
 ![Sales Dashboard](https://github.com/dehemisathsarani184-oss/Power-BI-Sales-Dashboard/blob/main/2014%20Sales%20Dashboard.PNG)
 ![Sales Dashboard](https://github.com/dehemisathsarani184-oss/Power-BI-Sales-Dashboard/blob/main/2015%20Sales%20Dashboard.PNG)
 ![Sales Dashboard](https://github.com/dehemisathsarani184-oss/Power-BI-Sales-Dashboard/blob/main/2016%20Sales%20Dashboard.PNG)
+![Sales Dashboard](https://github.com/dehemisathsarani184-oss/Power-BI-Sales-Dashboard/blob/main/2017%20Sales%20Dashboard.PNG)
+
+---
 
 ## 👤 Author and Contact
 
@@ -94,6 +90,6 @@ This project demonstrates the ability to **clean, model, and visualize data** to
 **GitHub Profile:** https://github.com/dehemisathsarani184-oss  
 **LinkedIn:** https://www.linkedin.com/in/dehemi-sathsarani-343399352
 
-**Email:** **dehemisathsarani184@gmail.com**
+**Email:** dehemisathsarani184@gmail.com
 
 ---
