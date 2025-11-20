@@ -89,7 +89,6 @@ This project demonstrates the ability to **clean, model, and visualize data** to
 **Name:** D. S. Senevirathna  
 **GitHub Profile:** https://github.com/dehemisathsarani184-oss  
 **LinkedIn:** https://www.linkedin.com/in/dehemi-sathsarani-343399352
-
 **Email:** **dehemisathsarani184@gmail.com**
 
 ---
