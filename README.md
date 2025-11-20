@@ -86,6 +86,7 @@ This project demonstrates the ability to **clean, model, and visualize data** to
 
 ![Sales Dashboard](https://github.com/dehemisathsarani184-oss/Power-BI-Sales-Dashboard/blob/main/2014%20Sales%20Dashboard.PNG)
 ![Sales Dashboard](https://github.com/dehemisathsarani184-oss/Power-BI-Sales-Dashboard/blob/main/2015%20Sales%20Dashboard.PNG)
+![Sales Dashboard](https://github.com/dehemisathsarani184-oss/Power-BI-Sales-Dashboard/blob/main/2016%20Sales%20Dashboard.PNG)
 
 ## 👤 Author and Contact
 
