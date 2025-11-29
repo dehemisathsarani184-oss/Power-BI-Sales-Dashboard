@@ -83,13 +83,3 @@ This project demonstrates the ability to **clean, model, and visualize data** to
 ![Sales Dashboard](https://github.com/dehemisathsarani184-oss/Power-BI-Sales-Dashboard/blob/main/2017%20Sales%20Dashboard.PNG)
 
 ---
-
-## 👤 Author and Contact
-
-**Name:** D. S. Senevirathna  
-**GitHub Profile:** https://github.com/dehemisathsarani184-oss  
-**LinkedIn:** https://www.linkedin.com/in/dehemi-sathsarani-343399352
-
-**Email:** dehemisathsarani184@gmail.com
-
----
